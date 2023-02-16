@@ -1,5 +1,6 @@
 # Coding-Projects
-More complex coding. Projects in
+Coding focused on Data Science
+
 - Python
 - Rust
 - R
