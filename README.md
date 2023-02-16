@@ -1,8 +1,13 @@
 # Coding
-Coding focused on Data Science
 
-- Python
-- Rust
-- R
+(En-US)
+Welcome!
 
-All descriptions in a separate txt file inside the respective folders.
+This repository is my portolio of coding in Python, R and Rust, focused on Data Science. :)
+
+.........................................................................................................................
+
+(Pt-BR)
+Bem vindo!
+
+Este repositório é meu portfólio de programação em Python, R e Rust, focado em Ciência de Dados. :)
