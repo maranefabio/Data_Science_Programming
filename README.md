@@ -1,4 +1,4 @@
-# Coding-Projects
+# Coding
 Coding focused on Data Science
 
 - Python
